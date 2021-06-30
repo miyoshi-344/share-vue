@@ -44,4 +44,20 @@ export default {
   font-size: 20px;
   font-weight: bold;
 }
+
+@media screen and (max-width: 480px) {
+  .flex {
+    flex-wrap: wrap;
+  }
+  .left {
+    width: 100%;
+    height: 20%;
+  }
+  .right {
+    width: 100%;
+  }
+  .title {
+    border: 1px solid white;
+  }
+}
 </style>
