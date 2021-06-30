@@ -56,7 +56,7 @@ button {
   text-align: center;
   padding: 8px 0 10px;
   color: #fff;
-  background-color: #5419da;
+  background-color: #ff4500;
   border-radius: 25px;
   cursor: pointer;
 }

@@ -52,7 +52,7 @@ export default {
   margin-bottom: 15px;
   border-radius: 10px;
   border: 1px solid white;
-  background-color: #15202b;
+  background-color: #111111;
   color: white;
   resize: none;
 }
@@ -61,7 +61,7 @@ button {
   text-align: center;
   padding: 8px 0 10px;
   color: #fff;
-  background-color: #5419da;
+  background-color: #ff4500;
   border-radius: 25px;
   display: block;
   margin: 0 0 0 auto;
