@@ -168,7 +168,7 @@ export default {
 
 @media screen and (max-width: 480px) {
   .message {
-    border: 1px solid white;
+    border: solid　1px white;
   }
 }
 </style>
