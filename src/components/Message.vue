@@ -165,4 +165,10 @@ export default {
   margin-left: 10px;
   margin-right: 10px;
 }
+
+@media screen and (max-width: 480px) {
+  .message {
+    border: 1px solid white;
+  }
+}
 </style>
