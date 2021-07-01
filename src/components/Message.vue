@@ -144,6 +144,7 @@ export default {
 .icon {
   width: 25px;
   height: 25px;
+  cursor: pointer;
 }
 .detail {
   margin-left: 50px;

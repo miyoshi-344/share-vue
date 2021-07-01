@@ -23,7 +23,6 @@
 }
 .logo {
  width: 150px;
- cursor: pointer;
 }
 .flex {
  display: flex;

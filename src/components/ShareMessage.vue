@@ -65,5 +65,6 @@ button {
   border-radius: 25px;
   display: block;
   margin: 0 0 0 auto;
+  cursor: pointer;
 }
 </style>

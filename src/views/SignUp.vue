@@ -86,4 +86,10 @@ input {
 .form button {
   margin-top: 15px;
 }
+
+@media screen and (max-width: 480px) {
+  .card {
+    width: 80%;
+  }
+}
 </style>

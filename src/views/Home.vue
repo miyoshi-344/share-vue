@@ -51,7 +51,7 @@ export default {
   }
   .left {
     width: 100%;
-    height: 20%;
+    height: 100%;
   }
   .right {
     width: 100%;

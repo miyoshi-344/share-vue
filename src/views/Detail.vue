@@ -138,5 +138,28 @@ button {
   border-radius: 25px;
   display: block;
   margin: 0 0 0 auto;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 480px) {
+  .flex {
+    flex-wrap: wrap;
+  }
+  .left {
+    width: 100%;
+    height: 100%;
+  }
+  .right {
+    width: 100%;
+  }
+  .title {
+    border: 1px solid white;
+  }
+  .comment-title {
+    border: 1px solid white;
+  }
+  .message {
+    border: 1px solid white;
+  }
 }
 </style>
